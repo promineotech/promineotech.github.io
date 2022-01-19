@@ -9,7 +9,9 @@ a:hover, a:focus { color: #f35b3f; border: 0; text-decoration: none; }
 
 h1, h2 { margin-top: 10px; font-size: 38px; font-weight: 400; color: #fff; line-height: 50px; }
 h3 { font-size: 22px; font-weight: 300; color: white; line-height: 30px;  }
-
+h1.carh1 { margin-top: 10px; font-size: 38px; font-weight: 400; color: #000; line-height: 50px; }
+h2.carh2 { margin-top: 10px; font-size: 38px; font-weight: 400; color: #888; line-height: 50px; }
+h3.fdh3 { font-size: 22px; font-weight: 300; color: #000; line-height: 30px;  }
 img { max-width: 100%; }
 
 .medium-paragraph { font-size: 17px; line-height: 32px; }
@@ -99,7 +101,6 @@ img { max-width: 100%; }
 .carousel .carousel-control-next-icon {
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%235a6268' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e");
 }
-
 
 /***** Section 1 *****/
 
